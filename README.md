@@ -1,7 +1,7 @@
 # Nibiru Chain
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/NibiruChain/nibiru.svg)](https://pkg.go.dev/github.com/NibiruChain/nibiru)
-[![Nibiru Test workflow][badge-go-linter]][workflow-go-linter]
+[![Nibiru Test workflow][badge-go-linter]][workflow-go-linter] 
 [![Nibiru Test workflow][badge-go-releaser]][workflow-go-releaser]
 [![GitHub][license-badge]](https://github.com/NibiruChain/nibiru/blob/main/LICENSE.md)
 [![Discord Badge](https://dcbadge.vercel.app/api/server/nibirufi?style=flat)](https://discord.gg/nibirufi)
